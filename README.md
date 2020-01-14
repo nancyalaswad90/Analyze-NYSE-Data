@@ -34,11 +34,12 @@ Create a dashboard for a Profit and Loss Statement that calculates the Gross Pro
 
 Create a financial model for a company (different from Task 2) of your choice that forecasts out the Gross Profit, Operating Profit or EBIT for two more years using three scenarios (Best case, Weak case and Base case). Your assumptions for revenue growth, gross margin and operating margin should change for each scenario.
 
-Step One - Get Organized
+###  Step One - Get Organized
+
 When you complete your analysis and presentation you’ll want to submit your project. Get organized before you begin. I recommend creating a single folder that will eventually contain:
 
 
-## The presentation with the visual and summary
+The presentation with the visual and summary
 
 The original data set
 A copy of the spreadsheet workbook you will use to do the analysis for your report that contains at least the following tabs:
@@ -46,22 +47,31 @@ Data file
 Summary statistics
 P&L Statement Dashboard
 Forecast scenarios
-Step Two - Analyze Your Data
+
+###  Step Two - Analyze Your Data
+
 Look through the Tasks described above and select the qualitative variable and quantitative variable you want to focus your analysis on for the various tasks. Then use the .csv file to conduct your data analysis.
 
-Step Three - Create Your Presentation
+###  Step Three - Create Your Presentation
+
 Once you have finished analyzing the data, create a presentation that shares the visual and summary paragraph. The summary paragraph should clearly communicate your findings based on your analysis, and provide visual or numeric values associated with your summary.
 
 he submission template is a Google Slides file. Make a copy of the submission template to complete your project. We suggest you use the layout provided, though it is not a requirement.
 
-Step Four - Assemble your Worksheet You will need to include the Excel file with the summary statistics, dashboard and financial model scenarios.
+###  Step Four 
+
+- Assemble your Worksheet You will need to include the Excel file with the summary statistics, dashboard and financial model scenarios.
 
 
 Put your presentation and spreadsheet workbook you used to do the analysis in a folder and zip it. Then submit the zipped folder for your project.
 
-Step Five - Check the Rubric
+###  Step Five - Check the Rubric
+
 Use the Project Rubric located here. If you see room for improvement, keep working to improve your project.
 
-Step Six - Assemble your folder ready for submission
+###  Step Six - 
+
+Assemble your folder ready for submission
+
 If you are happy with your submission, then you're ready to submit your project. Put your presentation and spreadsheet workbook in a folder and zip it. Then submit the zipped folder for your project.
 
